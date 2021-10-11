@@ -1,0 +1,2 @@
+rootProject.name = "Power Research Server"
+include ':app'
